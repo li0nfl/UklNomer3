@@ -5,6 +5,6 @@ Contoh:
 5! = 5 × 4 × 3 × 2 × 1 = 120
 
 	1.	Pengguna memasukkan bilangan bulat positif
-  2.	Program mengecek apakah bilangan negatif
-  3.	Jika bilangan valid (positif), program menghitung faktorial
-  4.	Menampilkan hasilnya
+    2.	Program mengecek apakah bilangan negatif
+    3.	Jika bilangan valid (positif), program menghitung faktorial
+    4.	Menampilkan hasilnya
